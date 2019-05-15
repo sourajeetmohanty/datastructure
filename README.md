@@ -7,16 +7,11 @@ FUNDAMENTS OF DATASTRUCTURE IN C LANGUAGE
 Arrays are contigious memory locations which contain similar data. The memory addresses of arrays are in sequential order.
 The code below displays the declaratrion and the insertion of arrays in a specifically C language format.
 ```
-void main()
-{
- int a[10];
- 
- for(int i=0;i<10;i++)
- {
- scanf("%d",&a[i]);
- }
-
-} 
+	int a[10]; //Declare the array
+	
+	for(int i=0;i<10;i++){
+		scanf("%d",&a[i]); //Input the elements
+	} 
 ```
 # Linklist
 
