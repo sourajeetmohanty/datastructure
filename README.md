@@ -2,6 +2,11 @@
 FUNDAMENTS OF DATASTRUCTURE IN C LANGUAGE
 
 
+what is data structure?
+
+A data structure is a specialized format for organizing, processing, retrieving and storing data. While there are several basic and advanced structure types, any data structure is designed to arrange data to suit a specific purpose so that it can be accessed and worked with in appropriate ways.
+
+
  # ARRAYS
 
 Arrays are contigious memory locations which contain similar data. The memory addresses of arrays are in sequential order.
