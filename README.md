@@ -33,8 +33,8 @@ typedef node-type
  
 The above code uses type defination to name a sample node , it provides the node with only two elements, the data element and the pointer to a node which helps point the next element of the link list.
 
-# searching in a linklist
-
+# stack
+In computer science, a stack is an abstract data type that serves as a collection of elements, with two principal operations: push, which adds an element to the collection, and pop, which removes the most recently added element that was not yet removed
 
 
 
