@@ -2,6 +2,11 @@
 FUNDAMENTS OF DATASTRUCTURE IN C LANGUAGE
 
 
+what is data structure?
+
+A data structure is a specialized format for organizing, processing, retrieving and storing data. While there are several basic and advanced structure types, any data structure is designed to arrange data to suit a specific purpose so that it can be accessed and worked with in appropriate ways.
+
+
  # ARRAYS
 
 Arrays are contigious memory locations which contain similar data. The memory addresses of arrays are in sequential order.
@@ -28,8 +33,8 @@ typedef node-type
  
 The above code uses type defination to name a sample node , it provides the node with only two elements, the data element and the pointer to a node which helps point the next element of the link list.
 
-# searching in a linklist
-
+# stack
+In computer science, a stack is an abstract data type that serves as a collection of elements, with two principal operations: push, which adds an element to the collection, and pop, which removes the most recently added element that was not yet removed
 
 
 
